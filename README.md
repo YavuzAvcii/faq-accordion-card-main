@@ -9,7 +9,7 @@ Thanks for checking out this front-end coding challenge.
 # Thanks for your visit :)
 This is my first project that I have used all 3 frontend technologies at the sametime. I hope you would like it :)
 
-## What have I used ?
+## Technologies I have used
 1- I used flexbox to display my elements like the way they do on design patterns.
 2- I used classic HTML DOM to make the accordion page.
 
